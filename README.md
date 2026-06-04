@@ -67,7 +67,7 @@ This is **Module 1** of an ongoing series:
 
 ## Author
 **Piyush Kunjilwar**
-MS Information Systems — Northeastern University (May 2026)
+MS Information Systems — Northeastern University (May 2026)   
 [LinkedIn](https://linkedin.com/in/piyush-kunjilwar) · 
 [GitHub](https://github.com/piyush12kunjilwar) · 
 [Portfolio](https://piyush12kunjilwar.github.io)# LLM-Inference-Optimization
