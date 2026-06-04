@@ -16,7 +16,7 @@
 
 ## Key Achievements
 - ⚡ **1.94x latency improvement** over FP32 GPU baseline
-- 📦 **74.9% model size reduction** (267.9MB → 67.3MB)
+- 📦 **74.9% model size reduction** (267.9MB → 67.3MB)   
 - 🖥️ **Optimized CPU outperforms unoptimized GPU**
 - 💰 Lower inference cost — no GPU required after optimization
 
