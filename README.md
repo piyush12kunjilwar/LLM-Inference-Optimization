@@ -62,7 +62,7 @@ This is **Module 1** of an ongoing series:
 - ✅ Module 1 — Inference Optimization (ONNX + Quantization)   
 - 🔜 Module 2 — CUDA Kernel Optimization (Triton + Custom Kernels)     
 - 🔜 Module 3 — Distributed Training (FSDP + NCCL)
-- 🔜 Module 4 — TensorRT Optimization   
+- 🔜 Module 4 — TensorRT Optimization      
 - 🔜 Module 5 — Agentic AI Systems  
 
 ## Author
