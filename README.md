@@ -29,7 +29,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 - Established rigorous benchmark: 100 runs + 10 warmup, P50/P95/P99
 
 ### 2. FP16 Half Precision
-- Result: **Slower** (6.51ms → 6.31ms)
+- Result: **Slower** (6.51ms → 6.31ms)   
 - Insight: FP16 conversion overhead outweighs bandwidth savings for small models
 - Real engineering lesson: **always profile, never assume**
 
