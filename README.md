@@ -1,6 +1,6 @@
 # LLM Inference Optimization Pipeline 🚀
 
-> End-to-end inference optimization of transformer models using 
+> End-to-end inference optimization of transformer models using   
 > ONNX Runtime and INT8 quantization — achieving 1.94x speedup 
 > over FP32 GPU baseline while reducing model size by 74.9%
 
