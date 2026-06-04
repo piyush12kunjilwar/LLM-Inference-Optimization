@@ -57,7 +57,7 @@ CUDA 12.8 · torch.profiler · INT8 Quantization
 Google Colab L4 GPU · Python 3.12
 ```
 
-## Part of ML Systems Optimization Suite   
+## Part of ML Systems Optimization Suite      
 This is **Module 1** of an ongoing series:   
 - ✅ Module 1 — Inference Optimization (ONNX + Quantization)   
 - 🔜 Module 2 — CUDA Kernel Optimization (Triton + Custom Kernels)     
