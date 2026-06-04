@@ -66,7 +66,7 @@ This is **Module 1** of an ongoing series:
 - 🔜 Module 5 — Agentic AI Systems  
 
 ## Author
-**Piyush Kunjilwar**
+**Piyush Kunjilwar**   
 MS Information Systems — Northeastern University (May 2026)   
 [LinkedIn](https://linkedin.com/in/piyush-kunjilwar) · 
 [GitHub](https://github.com/piyush12kunjilwar) · 
