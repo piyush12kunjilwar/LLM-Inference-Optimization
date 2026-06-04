@@ -7,7 +7,7 @@
 ## Results  
 
 | Method | Latency (mean) | P95 Latency | Model Size | vs Baseline |
-|--------|---------------|-------------|------------|-------------|
+|--------|---------------|-------------|------------|-------------|  
 | PyTorch FP32 GPU | 6.510ms | 7.485ms | 267.9MB | baseline |
 | ONNX Runtime CPU | 8.001ms | 8.104ms | 267.9MB | 1.23x slower |
 | **INT8 Quantized** | **3.349ms** | **3.589ms** | **67.3MB** | **1.94x faster** ✅ |
