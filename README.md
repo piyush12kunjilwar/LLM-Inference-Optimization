@@ -38,7 +38,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 - Applied constant folding and graph optimization
 - Eliminated Python runtime overhead entirely
 
-### 4. INT8 Dynamic Quantization
+### 4. INT8 Dynamic Quantization   
 - Converted FP32 weights (32-bit) → INT8 (8-bit)
 - 4x memory reduction
 - Final result: **3.349ms — 1.94x faster than GPU baseline**
