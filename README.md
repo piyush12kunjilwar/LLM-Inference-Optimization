@@ -48,7 +48,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 2. Hardware-specific optimizations don't always generalize      
 3. INT8 quantization on CPU can outperform FP32 on GPU
 4. Model size reduction directly impacts inference cost at scale
-5. P95/P99 latency matters as much as mean in production
+5. P95/P99 latency matters as much as mean in production   
 
 ## Tech Stack   
 ```
