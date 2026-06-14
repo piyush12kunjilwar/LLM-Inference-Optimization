@@ -4,7 +4,7 @@
 > ONNX Runtime and INT8 quantization — achieving 1.94x speedup 
 > over FP32 GPU baseline while reducing model size by 74.9%
 
-## Results  
+## Results    
 
 | Method | Latency (mean) | P95 Latency | Model Size | vs Baseline |
 |--------|---------------|-------------|------------|-------------|  
