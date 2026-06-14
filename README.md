@@ -20,7 +20,7 @@
 - 🖥️ **Optimized CPU outperforms unoptimized GPU**
 - 💰 Lower inference cost — no GPU required after optimization
 
-## Optimization Pipeline
+## Optimization Pipeline   
 
 ### 1. Baseline Profiling
 Profiled PyTorch FP32 model using `torch.profiler`:
