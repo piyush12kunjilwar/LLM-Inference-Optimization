@@ -23,7 +23,7 @@
 ## Optimization Pipeline   
 
 ### 1. Baseline Profiling
-Profiled PyTorch FP32 model using `torch.profiler`:
+Profiled PyTorch FP32 model using `torch.profiler`:   
 - Identified `aten::addmm` (matrix multiply) = **84.89% of CUDA time**
 - 380 linear layer calls dominating inference
 - Established rigorous benchmark: 100 runs + 10 warmup, P50/P95/P99  
