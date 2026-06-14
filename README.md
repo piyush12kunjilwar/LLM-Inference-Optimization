@@ -30,7 +30,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 
 ### 2. FP16 Half Precision
 - Result: **Slower** (6.51ms → 6.31ms)   
-- Insight: FP16 conversion overhead outweighs bandwidth savings for small models  
+- Insight: FP16 conversion overhead outweighs bandwidth savings for small models    
 - Real engineering lesson: **always profile, never assume**
 
 ### 3. ONNX Export
