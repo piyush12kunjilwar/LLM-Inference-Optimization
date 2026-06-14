@@ -45,7 +45,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 
 ## What I Learned   
 1. Always profile before optimizing — never guess the bottleneck   
-2. Hardware-specific optimizations don't always generalize
+2. Hardware-specific optimizations don't always generalize   
 3. INT8 quantization on CPU can outperform FP32 on GPU
 4. Model size reduction directly impacts inference cost at scale
 5. P95/P99 latency matters as much as mean in production
