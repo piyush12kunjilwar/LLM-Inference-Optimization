@@ -42,7 +42,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 - Converted FP32 weights (32-bit) → INT8 (8-bit)
 - 4x memory reduction
 - Final result: **3.349ms — 1.94x faster than GPU baseline**
-
+   
 ## What I Learned   
 1. Always profile before optimizing — never guess the bottleneck   
 2. Hardware-specific optimizations don't always generalize      
