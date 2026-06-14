@@ -14,7 +14,7 @@
   
 **Hardware:** NVIDIA L4 GPU (23.7GB) | **Model:** DistilBERT (66.9M params)  
   
-## Key Achievements
+## Key Achievements   
 - ⚡ **1.94x latency improvement** over FP32 GPU baseline
 - 📦 **74.9% model size reduction** (267.9MB → 67.3MB)   
 - 🖥️ **Optimized CPU outperforms unoptimized GPU**
