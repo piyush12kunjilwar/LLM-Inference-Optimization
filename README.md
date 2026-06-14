@@ -52,7 +52,7 @@ Profiled PyTorch FP32 model using `torch.profiler`:
 
 ## Tech Stack   
 ```
-PyTorch 2.10 · ONNX Runtime 1.24 · Hugging Face Transformers
+PyTorch 2.10 · ONNX Runtime 1.24 · Hugging Face Transformers   
 CUDA 12.8 · torch.profiler · INT8 Quantization
 Google Colab L4 GPU · Python 3.12      
 ```    
